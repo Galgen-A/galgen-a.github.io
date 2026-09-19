@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 210" fill="none">
+  <defs><g id="car" stroke="#292c35" stroke-width="4"><rect x="-39" y="-73" width="78" height="146" rx="27" fill="currentColor"/><rect x="-28" y="-44" width="56" height="32" rx="8" fill="#bde2df"/><rect x="-28" y="22" width="56" height="30" rx="8" fill="#8fb8bb"/><path d="M0-69v21" stroke="#fff0d0" stroke-width="7"/><path d="M-43-41v24m86-24v24m-86 49v24m86-24v24" stroke-width="9" stroke-linecap="round"/></g></defs>
+  <path d="M16 17h112v180H16M164 17h112v180H164M312 17h112v180H312" stroke="#b5c6a2" opacity=".5" stroke-width="2"/>
+  <use href="#car" transform="translate(74 103) rotate(-8)" color="#f08a72"/>
+  <use href="#car" transform="translate(220 100) rotate(5)" color="#dda94e"/>
+  <use href="#car" transform="translate(370 105) rotate(-5)" color="#9cbcac"/>
+</svg>
